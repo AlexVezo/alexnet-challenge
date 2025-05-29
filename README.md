@@ -1,5 +1,5 @@
 # About the project 
-During my study time, I was asked if I would like to attempt to try to build a neuronal network like and see how good it 
+During my study time, I was asked if I would like to attempt to try to build a neuronal network like AlexNet and see how good it works. 
 I accepted the callenge and reached about 20% accuracy. Here, I share the files I used. 
 
 First, I preprocessed the five files files into 289 smaller batches.  
